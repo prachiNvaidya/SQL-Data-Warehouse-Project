@@ -21,7 +21,7 @@ Develop a modern data warehouse using postgreSQL to consolidate sales data, enab
 
 ### Data Architecture:
 
-![.](Images/Data Architecture.png)
+![](Images/DataArchitecture.png)
 
 ---
 
